@@ -9,7 +9,7 @@
 1. Anaconda3 2021.05 (Python 3.8.8 64-bit) para ejecutar Jupyter Notebook 6.3.0
 2. Atom 1.58.0
 
-> Especificaciones de mi dispositivo: :ordenador:
+> Especificaciones de mi dispositivo: 
 > - Edición de Windows: Windows 11 Home
 > - Procesador: Intel(R) Core(TM) i5-8250U
 > - RAM instalada: 12.0 GB
