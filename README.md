@@ -1,5 +1,5 @@
 # E2_ExamenParcialPython
-***Repositorio del segundo parcial de bioinformática*
+***Repositorio del segundo parcial de bioinformática***
 -
 ### Datos Personales
 - *Nombres y Apellidos:* María Antonella Ortiz Báez
